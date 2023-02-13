@@ -3,3 +3,4 @@
  {
  	public ststic void main(String[] args)
  }
+    int a=2,b=3; 
